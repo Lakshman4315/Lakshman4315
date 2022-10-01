@@ -3,8 +3,16 @@
 - 🌱 I’m currently learning Web Dev and doing some Android related projects for myself.
 - 💞️ I’m looking to collaborate on Android.
 
-<!---
-Lakshman4315/Lakshman4315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#659AD3" d="M115.4 30.7L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.4 1 3.5l106.8-62c-.6-1.2-1.5-2.1-2.4-2.7z"/><path fill="#03599C" d="M10.7 95.3c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V36.1c0-.9-.1-1.9-.6-2.8l-106.6 62z"/><path fill="#fff" d="M85.3 76.1C81.1 83.5 73.1 88.5 64 88.5c-13.5 0-24.5-11-24.5-24.5s11-24.5 24.5-24.5c9.1 0 17.1 5 21.3 12.5l13-7.5c-6.8-11.9-19.6-20-34.3-20-21.8 0-39.5 17.7-39.5 39.5s17.7 39.5 39.5 39.5c14.6 0 27.4-8 34.2-19.8l-12.9-7.6z"/></svg>
+## Languages
+![image](https://user-images.githubusercontent.com/99181279/193396144-655a6ef3-1385-4df3-92af-145176d980e6.png)
+![image](https://user-images.githubusercontent.com/99181279/193396192-95ccb93b-47ea-43ef-8e8d-33b117d741d0.png)
+![image](https://user-images.githubusercontent.com/99181279/193396235-0ff58656-7799-4a77-b9a6-723d76a30ed3.png)
+![image](https://user-images.githubusercontent.com/99181279/193396289-12b99e83-7fcd-42c5-82c8-2fe47ecbbcc8.png)
+![image](https://user-images.githubusercontent.com/99181279/193396334-2793f639-ae2b-42cd-8f19-f0adf9e7dfa2.png)
+![image](https://user-images.githubusercontent.com/99181279/193396368-4cf3875a-b5cc-4c97-9bae-be4e885e7510.png)
+![image](https://user-images.githubusercontent.com/99181279/193396404-72c67361-c8c3-4668-b55f-9532bd32ee0e.png)
+
+
+## Tools
+![image](https://user-images.githubusercontent.com/99181279/193396435-a05267f1-9a06-4f44-b5fd-a84bf59c0542.png)
+![image](https://user-images.githubusercontent.com/99181279/193396480-b90ee454-34f9-4958-89f3-5b8e117d66e8.png)
