@@ -5,12 +5,6 @@
 
 ## Languages
 ![image](https://user-images.githubusercontent.com/99181279/217553385-e66f3af4-7070-47d1-9b74-8d291131a49b.png)
-![image](https://user-images.githubusercontent.com/99181279/193396192-95ccb93b-47ea-43ef-8e8d-33b117d741d0.png)
-![image](https://user-images.githubusercontent.com/99181279/193396235-0ff58656-7799-4a77-b9a6-723d76a30ed3.png)
-![image](https://user-images.githubusercontent.com/99181279/193396289-12b99e83-7fcd-42c5-82c8-2fe47ecbbcc8.png)
-![image](https://user-images.githubusercontent.com/99181279/193396334-2793f639-ae2b-42cd-8f19-f0adf9e7dfa2.png)
-![image](https://user-images.githubusercontent.com/99181279/193396368-4cf3875a-b5cc-4c97-9bae-be4e885e7510.png)
-![image](https://user-images.githubusercontent.com/99181279/193396404-72c67361-c8c3-4668-b55f-9532bd32ee0e.png)
 
 
 ## Tools
